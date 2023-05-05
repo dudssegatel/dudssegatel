@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**dudssegatel/dudssegatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ bem vindos ao meu perfil 
+ 
+      meu nome é maria eduarda, mas pode me chamar de duda 
+      
+  - estou estudando no site do alura
+  - estou quase acabando o curso 2 ou 1 
+  - agora vou utilizar este espaço para minha organização, e também para o compartilhamento de meus projetos
+  
+  você podera entrar em contato comigo pelo meu emailda escola
+    maria.segatel.santos@escola.pr.gov.br
+    
